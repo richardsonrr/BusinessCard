@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="business_card">Business Card</string>
+    <string name="floating_action_button_add_card">add business card button</string>
+    <string name="name_card">"Name"</string>
+    <string name="contact">Contact</string>
+    <string name="email">E-mail</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="close_button">close page button</string>
+    <string name="new_business_card">New Business Card</string>
+    <string name="add_new_card">Add Card</string>
+</resources>
